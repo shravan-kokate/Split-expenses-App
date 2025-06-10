@@ -1,16 +1,13 @@
 # Split App - Expense Splitting Application
-
+# Author -- Shravan Kokate 
 A full-stack expense-splitting application that helps groups of people split expenses fairly and calculate who owes money to whom. Built with React frontend and Express backend using local JSON storage.
 App is deployed on Railway.
-![image](https://github.com/user-attachments/assets/6b9e9dc7-9209-40b1-8cdd-3c6ab112cb8e)
+![image](https://github.com/user-attachments/assets/d1f62b10-edd9-4271-beda-245ed41fe99c)
 
+![image](https://github.com/user-attachments/assets/84043339-39cc-4474-bee8-3cc45185e31a)
 
+![image](https://github.com/user-attachments/assets/614954e6-bf38-4bc2-a6cf-94d6cf8eb0b2)
 
-![image](https://github.com/user-attachments/assets/27054cd8-e24f-4db8-b903-cd00ec5e3bff)
-Main DashBoard Of the app.
-![image](https://github.com/user-attachments/assets/eb97af67-81cf-47f5-994d-a97c0cda59c6)
-People Tab.
-![image](https://github.com/user-attachments/assets/43cb8b2f-7711-46d6-9e92-0645a6b20cfe)
 Expenses Tab
 
 
